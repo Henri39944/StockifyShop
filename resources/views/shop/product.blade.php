@@ -2,6 +2,9 @@
 
 @section('content')
     @include('layout.navigation')
+
+	{{ Breadcrumbs::render('showProducts') }}
+
     <section id="new-arrivals" class="new-arrivals">
 		<div class="container">
 			<div class="section-header">

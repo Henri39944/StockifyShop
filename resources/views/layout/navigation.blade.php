@@ -30,8 +30,8 @@
                                     <li class="single-cart-list">
                                         <a href="#" class="photo"><img src="{{ asset('/uploads/images/collection/arrivals1.png') }}" class="cart-thumb" alt="image" /></a>
                                         <div class="cart-list-txt">
-                                            <h6><a href="#">arm <br> chair</a></h6>
-                                            <p>1 x - <span class="price">€180.00</span></p>
+                                            <h6><a href="#">Sansung <br> a20</a></h6>
+                                            <p>1 x - <span class="price">€280.00</span></p>
                                         </div>
                                         <div class="cart-close">
                                             <span class="lnr lnr-cross"></span>
@@ -40,8 +40,8 @@
                                     <li class="single-cart-list">
                                         <a href="#" class="photo"><img src="{{ asset('/uploads/images/collection/arrivals2.png') }}" class="cart-thumb" alt="image" /></a>
                                         <div class="cart-list-txt">
-                                            <h6><a href="#">single <br> armchair</a></h6>
-                                            <p>1 x - <span class="price">€180.00</span></p>
+                                            <h6><a href="#">samsung <br> a70</a></h6>
+                                            <p>1 x - <span class="price">€380.00</span></p>
                                         </div>
                                         <div class="cart-close">
                                             <span class="lnr lnr-cross"></span>
@@ -50,8 +50,8 @@
                                     <li class="single-cart-list">
                                         <a href="#" class="photo"><img src="{{ asset('/uploads/images/collection/arrivals3.png') }}" class="cart-thumb" alt="image" /></a>
                                         <div class="cart-list-txt">
-                                            <h6><a href="#">wooden arn <br> chair</a></h6>
-                                            <p>1 x - <span class="price">€180.00</span></p>
+                                            <h6><a href="#">samsung<br> s20</a></h6>
+                                            <p>1 x - <span class="price">€1180.00</span></p>
                                         </div>
                                         <div class="cart-close">
                                             <span class="lnr lnr-cross"></span>

@@ -327,35 +327,35 @@
 
 	</section>
 
-	<section id="sofa-collection">
+	<section id="partners-collection">
 		<div class="owl-carousel owl-theme" id="collection-carousel">
-			<div class="sofa-collection collectionbg1" style="background:url({{ asset('/uploads/images/collection/banner1.jpg') }})">
+			<div class="partners-collection collectionbg1" style="background:url({{ asset('/uploads/images/collection/banner1.jpg') }})">
 				<div class="container">
-					<div class="sofa-collection-txt">
+					<div class="partners-collection-txt">
 						<h2>unlimited apple products</h2>
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 						</p>
-						<div class="sofa-collection-price">
+						<div class="partners-collection-price">
 							<h4>strting from <span>€ 499</span></h4>
 						</div>
-						<button class="btn-cart welcome-add-cart sofa-collection-btn" onclick="window.location.href='#'">
+						<button class="btn-cart welcome-add-cart partners-collection-btn" onclick="window.location.href='#'">
 							view more
 						</button>
 					</div>
 				</div>	
 			</div>
-			<div class="sofa-collection collectionbg2" style="background-image:url({{ asset('/uploads/images/collection/banner2.jpg') }})">
+			<div class="partners-collection collectionbg2" style="background-image:url({{ asset('/uploads/images/collection/banner2.jpg') }})">
 				<div class="container">
-					<div class="sofa-collection-txt">
+					<div class="partners-collection-txt">
 						<h2>samsung 5g collection</h2>
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 						</p>
-						<div class="sofa-collection-price">
+						<div class="partners-collection-price">
 							<h4>strting from <span>€ 699</span></h4>
 						</div>
-						<button class="btn-cart welcome-add-cart sofa-collection-btn" onclick="window.location.href='#'">
+						<button class="btn-cart welcome-add-cart partners-collection-btn" onclick="window.location.href='#'">
 							view more
 						</button>
 					</div>
