@@ -12,8 +12,8 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-Route::redirect('/', '/shop.home', 301);
-Route::get('/', function () {
+Route::redirect('/', '/home', 301);
+Route::get('/welcome', function () {
     return view('shop.home');
 });
 Route::get('/product', 'App\Http\Controllers\Controller@showProducts')->name('showProducts');
