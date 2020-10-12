@@ -13,3 +13,7 @@ Breadcrumbs::for('showDetailProducts', function ($trail) {
     $trail->parent('showProducts');
     $trail->push('Samsung a20', route('showDetailProducts'));
 });
+Breadcrumbs::for('showDetailProducts', function ($trail) {
+    $trail->parent('showProducts');
+    $trail->push('Samsung a20', route('showDetailProducts'));
+});
