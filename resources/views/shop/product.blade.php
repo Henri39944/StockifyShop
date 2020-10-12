@@ -7,9 +7,6 @@
 
     <section id="new-arrivals" class="new-arrivals">
 		<div class="container">
-			<div class="section-header">
-				<h2>Products</h2>
-			</div>
 			<div class="new-arrivals-content">
 				<div class="row">
 					<div class="col-md-3 col-sm-4">
