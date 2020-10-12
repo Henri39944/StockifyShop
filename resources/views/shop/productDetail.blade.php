@@ -31,6 +31,8 @@
                     <div class="col-md-6">
                         <h4>lorem ipsum</h4>
                         <h2>lorem ipsum</h2>
+
+                        <h2>lorem ipsum</h2>
                     </div>
                 </div>
             </div>
